@@ -1,0 +1,3 @@
+dist
+animal_classifier/dataset
+animal_classifier/animal_classifier.h5
